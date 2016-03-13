@@ -1,0 +1,17 @@
+{
+	"carnivores": [
+	{
+		"Name": "Wolf",
+		"Family": "Dog"
+	},
+	{
+		"Name": "Lion",
+		"Family": "Cat"
+	},
+	{
+		"Name": "Squatch",
+		"Family": "Bear"
+	}
+
+	]
+}

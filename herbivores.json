@@ -1,0 +1,16 @@
+{
+	"herbivores": [
+	{
+		"Name": "Deer",
+		"Location": "Forrest"
+	},
+	{
+		"Name": "Cow",
+		"Location": "Range"
+	},
+	{
+		"Name": "Moose",
+		"Location": "Mountains"
+	}
+	]
+}
